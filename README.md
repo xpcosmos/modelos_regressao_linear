@@ -1,4 +1,4 @@
-# modelos_regressao_linear
+# Introdução
 Repositório com todos os modelos de regressão linear desenvolvidos para fins de estudo!
 
 
